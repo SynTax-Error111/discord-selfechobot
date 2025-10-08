@@ -30,7 +30,6 @@ const MESSAGEMUSTINCLUDE = config.messageMustInclude;
 const MESSAGEANYINCLUDES = config.messageAnyIncludes;
 var lastMessage = 0;
 
-const keep_alive = require('./keep_alive.js.)
 // create a new Discord client
 const client = new Discord.Client();
 
